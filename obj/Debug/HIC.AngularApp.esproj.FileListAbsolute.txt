@@ -1,0 +1,2 @@
+D:\My Projects\HartInterCivic\hic-timer-repo1\angularapp\obj\Debug\HIC.AngularApp.esproj.SuggestedBindingRedirects.cache
+D:\My Projects\HartInterCivic\hic-timer-repo1\angularapp\obj\Debug\HIC.AngularApp.esproj.CoreCompileInputs.cache
