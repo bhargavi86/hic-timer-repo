@@ -6,7 +6,7 @@ This is an Angular 16 app displaying an in-browser timer along with a table of d
 
 Prerequisites: Visual Studio 2022
 
-Clone the repo and pull the latest branch. Opening Visual Studio 2022, build the project and then click on the 'Start' button. 
+Clone the repo and pull the latest code for both the 'master' and 'main' branches. Map the code in 'master' to a folder 'angularapp' in your local git setup. Opening Visual Studio 2022, build the project and then click on the 'Start' button. 
 The Angular App should open up in a browser window, and you will be able to observe the Timer-Table interaction.
 
 ## Description
